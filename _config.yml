@@ -28,7 +28,7 @@ twitter_username: bitswitch
 github_username:  awburchette
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-time-machine
 # theme: jekyll-theme-modernist 
 plugins:
   - jekyll-feed
