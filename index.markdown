@@ -4,3 +4,7 @@
 
 layout: home
 ---
+```
+def hello():
+    print('hello')
+```
